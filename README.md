@@ -13,4 +13,4 @@ I am an adventure seeker, always looking out for new learnings and experiences.
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshmendapara&show_icons=true&theme=gotham" alt="harshmendapara" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshmendapara&show_icons=true&theme=gotham&layout=compact&langs_count=6" alt="Harsh Mendapara" />
