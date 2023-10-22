@@ -5,7 +5,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=harshmendapara.harshmendapara)
 
-# Greetings!
 
 Hi, I'm Harsh Mendapara, a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
 
