@@ -5,9 +5,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=harshmendapara.harshmendapara)
 
-**"Hi, I'm Harsh Mendapara, a web developer and consultant passionate about crafting exceptional user experiences. I specialize in building robust and innovative solutions using JavaScript (TypeScript), Node.js, Vue.js, React, and a variety of databases and cloud platforms.
+**Hi, I'm Harsh Mendapara, a web developer and consultant passionate about crafting exceptional user experiences. I specialize in building robust and innovative solutions using JavaScript (TypeScript), Node.js, Vue.js, React, and a variety of databases and cloud platforms.
 
-I'm a lifelong learner, always eager to explore new technologies and contribute to impactful projects. Let's build something amazing together!"**
+I'm a lifelong learner, always eager to explore new technologies and contribute to impactful projects. Let's build something amazing together!**
 
 
 
