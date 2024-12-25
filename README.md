@@ -5,10 +5,11 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=harshmendapara.harshmendapara)
 
+**"Hi, I'm Harsh Mendapara, a web developer and consultant passionate about crafting exceptional user experiences. I specialize in building robust and innovative solutions using JavaScript (TypeScript), Node.js, Vue.js, React, and a variety of databases and cloud platforms.
 
-Hi, I'm Harsh Mendapara, a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I care greatly about the experience, architecture, and code quality of the things I build.
+I'm a lifelong learner, always eager to explore new technologies and contribute to impactful projects. Let's build something amazing together!"**
 
-I am an adventure seeker, always seeking new learnings and experiences.
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
